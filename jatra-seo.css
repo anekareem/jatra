@@ -1,0 +1,42 @@
+<!-- Super Network by Jatra SEO -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+div.GeneratedGradient {
+
+/* Code for the gradient */
+background: -webkit-gradient(linear, left top, right top, color-stop(0, #000000), color-stop(1, #000000));
+background: -webkit-linear-gradient(left, #000000 0%, #000000 100%);
+background: -moz-linear-gradient(left, #000000 0%, #000000 100%);
+background: -o-linear-gradient(left, #000000 0%, #000000 100%);
+background: -ms-linear-gradient(left, #000000 0%, #000000 100%);
+background: linear-gradient(to right, #000000 0%, #000000 100%);
+
+/* Non-gradient code. This styles things like the text, box, border, etc */
+text-align:center;
+color:#FFFFFF;
+hover:#FFFFF;
+width:auto;
+height:1px;
+border-width:1px;
+border-color:#000000;
+border-style:solid;
+padding:1.5em;
+font-family:Arial, sans-serif;
+font-size:11.3px;
+line-height:1px;
+}
+a.Link:link {
+text-decoration:blink;color:#FFFFFF;
+}
+a.Link:visited {
+color:#FFFFFF;
+}
+a.Link:hover {
+color:#FF0000;
+}
+a.Link:active {
+color:#FF0000;
+}
+</style>
+<!-- Jatra SEO Network-->
